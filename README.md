@@ -1,5 +1,5 @@
 # NSW Road Crash Data Analysis using Power BI
-This project uses Power BI to analyze road crash data from the NSW government's open data portal. The data includes information about the location, time, and severity of crashes that occurred in NSW from 2014 to 2019.
+Road Crash Data Analysis from the NSW government's open data portal. The data includes information about the location, time, and severity of crashes that occurred in NSW from 2014 to 2019.
 
 # Data Source
 The data used in this project was downloaded from the NSW government's open data portal at the following link: https://opendata.transport.nsw.gov.au/dataset/nsw-crash-data/resource/f3fc2ed9-776c-430b-84cc-2495cce8cb1d
